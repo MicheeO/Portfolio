@@ -1,5 +1,5 @@
 # Michelle Osei
-*Aspiring to become a aata scientist. Looking for entry/junior-level data analyst roles to start my journey!*
+*Aspiring to become a data scientist. Looking for entry/junior-level data analyst roles to start my journey!*
 
 # [Project 1: Excel data](https://drive.google.com/file/d/1i8qmTWyjc_YALu7xxo5ClVptybFJ1BvC/view?usp=sharing)
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
@@ -14,7 +14,7 @@ Tools learnt so far:
 * INDEX
 * IF statements
 
-# [Project 2: SQL experimentation with Spotify dataset](http://youtube.com/dataprofessor)
+# [Project 2: SQL experimentation with Spotify dataset](https://drive.google.com/file/d/1ma5_izQ1xWb2laoWO83nYXuP-VITg2bD/view?usp=sharing)
 ![alt text](caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@casparrubin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caspar Camille Rubin</a> on <a href="https://unsplash.com/s/photos/sql?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
