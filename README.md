@@ -1,28 +1,24 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Michelle Osei
+*An Aspiring Data Scientist. Looking for entry/junior-level data analyst roles to start my journey!*
 
-# Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
-
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Excel data](http://youtube.com/dataprofessor)
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/s/photos/excel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+In this project, I experiment with Excel data tools on an airbnb dataset. This project is an on-going progress. As I learn new Excel skills, I will continue to add onto the project.
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+Tools learnt so far:
+* VLOOKUP
+* MATCH
+* INDEX
+* IF statements
+
+# [Project 2: SQL experimentation with Spotify dataset](http://youtube.com/dataprofessor)
 ![alt text](caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@casparrubin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caspar Camille Rubin</a> on <a href="https://unsplash.com/s/photos/sql?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+After self-learning SQL, I wanted to practice my new knowledge. I decided that a music-related dataset would suit for SQL practice, so downloaded a Spotify GB tracks dataset ranging from years 1922-2021. This project is also an on-going progress. After being solid in SQL, I plan to move on to visualise my data using Power BI. 
 
 
