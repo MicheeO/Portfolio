@@ -1,5 +1,5 @@
 # Michelle Osei
-*An Aspiring Data Scientist. Looking for entry/junior-level data analyst roles to start my journey!*
+*Aspiring to become a aata scientist. Looking for entry/junior-level data analyst roles to start my journey!*
 
 # [Project 1: Excel data](http://youtube.com/dataprofessor)
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
