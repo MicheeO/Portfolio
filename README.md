@@ -19,6 +19,6 @@ Tools learnt so far:
 
 Photo by <a href="https://unsplash.com/@casparrubin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caspar Camille Rubin</a> on <a href="https://unsplash.com/s/photos/sql?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     
-After self-learning SQL, I wanted to practice my new-found knowledge. I decided that a music-related dataset would suit for SQL practice, so downloaded a Spotify GB tracks dataset ranging from years 1922-2021. This project is also an on-going progress. After being solid in SQL, I plan to move on to visualise my data using Power BI. 
+After self-learning SQL, I wanted to practice my new-found knowledge. I decided that a music-related dataset would suit for SQL practice, so downloaded a Spotify GB tracks dataset ranging from years 1922-2021. This project is also an on-going progress. After being solid in SQL, I plan to learn Power BI to visualise my data. 
 
 
